@@ -1,7 +1,3 @@
----
-title: about
-date: 2022-01-19 17:03:39
----
 
 <h1 style="text-align:center;font-size:20px;font-weight:bold;color:green;background:lightgray;border-width:2px;border-radius:15px;">
     湖杭铁路—输入资料及图纸进度
